@@ -22,15 +22,15 @@
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "18734981"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "0e88a144af021c41897a8e826eaf96aa"
     },
     "LEGEND_STRING": {
       "description": "Get this value by running https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py",
-      "value": ""
+      "value": "1BVtsOKoBu8K4SwGOtVwhbyYFwatUrm7Xi_RKUIwi-mJyWXdaPAv45eoPmdFrsaneg49RVheUIvanc7tMASY8T01zomDq_Nqwv2IO2lUx5-Z9oSxCSZLq3-lXCgj10Gw0ay2F9mVGkMyaLTbehXxPDnhnc9kslnQbQwUUCvoIoEhtl_p3JYiSKFgpGf76tHW3JcTgXZsltRaQ6LqQa-3Bc6UoclJvSqTwf0Y3pdWJ6leLhQp7uJkb8WjOvjalcWuDrA_NmKOKK5Ccpk0L9mYGmEq4PWG5QhGb1zqDh9p7IOxA20n6jnmoTZPjQ1N_rTr9P3q8BkXBTQJ9_PaxUTLo3tyliccuGL8="
     },
     "BOT_TOKEN": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
